@@ -1,0 +1,19 @@
+===========================================================
+                  MD5 Hash and Crack
+author : r3m1ck
+url    : http://r3m1ck.us/
+Org    : Exploit-ID
+===========================================================
+
+== Description ==
+
+This tool can generate MD5 hash from plain text and also can crack the md5 hash too.
+Successfully cracking is depending on your dictionary of password. 
+Because this tool using brute force to find the right decyrption of MD5 Hash.
+
+Use at your own risk.
+
+== License Information ==
+
+GNU General Public License v3 - http://www.gnu.org/licenses/gpl-3.0.html
+
